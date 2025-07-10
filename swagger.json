@@ -5,10 +5,10 @@
     "description": "API to manage contacts (GET, POST, PUT, DELETE)",
     "version": "1.0.0"
   },
-  "host": "localhost:3000",
+  "host": "cse341-node-1688.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/": {
